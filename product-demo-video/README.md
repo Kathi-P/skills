@@ -8,6 +8,7 @@ Made for landing page hero sections, product launches, LinkedIn posts, YouTube B
 
 ## Example
 
+https://github.com/user-attachments/assets/3d78c434-db4f-44e6-a806-5d18964da5af
 
 ## How it works
 
